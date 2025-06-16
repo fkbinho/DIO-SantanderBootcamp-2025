@@ -23,7 +23,7 @@ Siga as seguintes regras para implementar
    - Para valores acima de R$500,00 o cheque especial deve ser de 50% do valor depositado;
    - Caso o limite de cheque especial seja usado, assim que possível a conta deve cobrar uma taxa de 20% do valor usado do cheque especial.
 
-[Veja a solução aqui](https://github.com/fkbinho/DIO-SantanderBootcamp-2025/tree/main/poo-exercises/poo-exercise01)
+[Veja a solução aqui](https://github.com/fkbinho/Santander-Bootcamp2025/tree/main/poo-exercise01)
 
 --------
 
@@ -53,7 +53,7 @@ Siga as seguintes regras na implementação
    - O carro podera ser desligado se estiver em ponto morto (marcha 0) e sua velocidade em 0 km
    - O carro só pode virar para esquerda/direita se sua velocidade for de no mínimi 1km e no máximo 40km;
 
-[Veja a solução aqui](https://github.com/fkbinho/DIO-SantanderBootcamp-2025/tree/main/poo-exercises/poo-exercise02)
+[Veja a solução aqui](https://github.com/fkbinho/Santander-Bootcamp2025/tree/main/poo-exercise02)
 
 -------------
 
@@ -76,5 +76,3 @@ Siga as seguintes regras para implementação
    - Se o pet for retirado da maquina sem estar limpo será necessário limpar a máquina para permitir a entrada de outro pet;
    - A limpeza da máquina ira consumir 3 litros de água e 1 litro de shampoo;
    - O abastecimento de água e shampoo deve permitir 2 litros por vez que for acionado;
-
-[Veja a solução aqui](https://github.com/fkbinho/DIO-SantanderBootcamp-2025/tree/main/poo-exercises/poo-exercise03)
