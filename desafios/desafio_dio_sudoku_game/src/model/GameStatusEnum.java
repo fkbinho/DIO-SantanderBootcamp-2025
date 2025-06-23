@@ -1,4 +1,4 @@
-package util.model;
+package model;
 
 public enum GameStatusEnum {
     NON_STARTED("Não Iniciado"),

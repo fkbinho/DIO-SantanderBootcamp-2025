@@ -1,4 +1,4 @@
-package util.model;
+package model;
 
 public class Space {
     private Integer actual;

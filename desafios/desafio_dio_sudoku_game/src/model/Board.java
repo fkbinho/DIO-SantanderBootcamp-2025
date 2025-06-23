@@ -1,11 +1,11 @@
-package util.model;
+package model;
 
 import java.util.Collection;
 import java.util.List;
 
 import static java.util.Objects.isNull;
 import static java.util.Objects.nonNull;
-import static util.model.GameStatusEnum.*;
+import static model.GameStatusEnum.*;
 
 public class Board {
     private final List<List<Space>> spaces;
