@@ -1,5 +1,5 @@
-import util.model.Board;
-import util.model.Space;
+import model.Board;
+import model.Space;
 
 import java.util.ArrayList;
 import java.util.List;
